@@ -1,5 +1,4 @@
-###R code describing our search of MEDLINE databases. Comments to explain code follow “#” symbols in bold.
-
+###R code describing our search of MEDLINE databases. Comments to explain code follow “#” symbols.
 #-------------load packages--------------------------#
 library(RISmed) #package for searching pubmed
 library(stringr) #packaged used later to replace character strings
